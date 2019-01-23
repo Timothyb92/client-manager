@@ -74,6 +74,12 @@ class Login extends Component {
               </form>
             </div>
           </div>
+          <div className="alert alert-warning mt-2">
+            <p className="text-center">
+              For testing purposes, please log in with the email test@test.com
+              and the password abc123
+            </p>
+          </div>
         </div>
       </div>
     );
